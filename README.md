@@ -131,7 +131,7 @@ make
 
 💡 **Gestión de memoria y creación de estructuras de datos**.
 
-# Author ✍🏼
+# Autor ✍🏼
 
 <table>
   <tr>
